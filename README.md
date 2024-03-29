@@ -1,3 +1,6 @@
 - Avocado
 - Eggs
 - Steak
+- Milk
+- Water
+- Dog treats
